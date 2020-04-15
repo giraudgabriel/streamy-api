@@ -6,6 +6,6 @@
 
 # REPOSITORIES
 
-<a href="">💻 REACT-APP repositorie</a>
-<a href="">📼 NPTM-SERVER repositorie</a>
-<a href="">🎲 API-SERVER repositorie</a>
+<a href="https://github.com/giraudgabriel/streamy-react">💻 REACT-APP repositorie</a>
+<a href="https://github.com/giraudgabriel/streamy-rtmp-server">📼 NTMP-SERVER repositorie</a>
+<a href="https://github.com/giraudgabriel/streamy-api">🎲 API-SERVER repositorie</a>
